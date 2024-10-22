@@ -1,0 +1,266 @@
+21-10-2024_13:36:48 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_13:43:02 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_13:43:02 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_13:43:05 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_13:43:05 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_13:52:53 : [SUCESS] : Email was sucefully sent.
+21-10-2024_15:32:04 : [METHOD CALL] : updateChamados() method was called.
+21-10-2024_15:32:04 : [SCHEDULE] : Next update at 2024-10-21 15:37:04
+21-10-2024_15:32:04 : [METHOD CALLED] : updateChamados() called.
+21-10-2024_15:32:04 : [METHOD CALLED] : processChamadosPages() called with date filter.
+21-10-2024_15:32:05 : [INFO] : Found 156 pages to process.
+21-10-2024_15:33:14 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_15:36:22 : [SUCCESS] : updateChamados() completed successfully.
+21-10-2024_15:36:22 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_15:36:22 : [SUCCESS] : updateChamados() method processed successfully.
+21-10-2024_15:40:53 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:40:53 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:40:56 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:40:56 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:40:59 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:40:59 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:41:01 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:41:01 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:41:25 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:41:25 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:41:28 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:41:28 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:41:53 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:41:53 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:41:57 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:41:57 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:42:24 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:42:24 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:42:28 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:42:28 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:43:04 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:43:04 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:43:07 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:43:07 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:46:38 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:46:38 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:46:40 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:46:40 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:47:12 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:47:12 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:47:16 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:47:16 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:47:33 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:47:33 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:47:36 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:47:36 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:49:09 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:49:09 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:49:12 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:49:12 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:49:21 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:49:21 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:49:26 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:49:26 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:50:15 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:50:15 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:50:19 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:50:19 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:50:50 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:50:50 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:50:53 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:50:53 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:51:14 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:51:14 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:51:17 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:51:17 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:51:34 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:51:34 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:51:39 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:51:39 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:51:57 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:51:57 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:52:01 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:52:01 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:52:19 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:52:19 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:52:22 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:52:22 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:52:35 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:52:35 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:52:40 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:52:40 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:53:02 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:53:02 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:53:06 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:53:06 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:53:27 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:53:27 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:53:30 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:53:30 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:54:00 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:54:00 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:54:03 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:54:03 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:54:34 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:54:34 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:54:55 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:54:55 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:54:57 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:54:57 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:55:55 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:55:55 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:56:16 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:56:16 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:56:53 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:56:53 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:57:37 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:57:37 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:58:04 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:58:04 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:59:34 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:59:34 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_15:59:37 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_15:59:37 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:00:25 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:00:25 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:01:07 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:01:07 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:01:13 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:01:13 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:04:32 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:04:32 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:04:35 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:04:35 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:05:33 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:05:33 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:05:36 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:05:36 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:06:24 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:06:24 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:06:28 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:06:28 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:07:34 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:07:34 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:08:04 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:08:04 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:08:34 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:08:34 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:08:37 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:08:37 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:09:19 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:09:19 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:09:21 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:09:21 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:09:40 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:09:40 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:09:45 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:09:45 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:10:37 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:10:37 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:12:08 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:12:08 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:12:11 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:12:11 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:14:11 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:14:11 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:15:01 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:15:01 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:15:31 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:15:31 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:15:36 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:15:36 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:15:51 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:15:51 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:15:55 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:15:55 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:16:10 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:16:10 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:16:14 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:16:14 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:20:04 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:20:04 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:21:43 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:21:43 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:21:47 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:21:47 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:22:43 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:22:43 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:22:48 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:22:48 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:23:24 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:23:28 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:23:28 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:23:54 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:23:54 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:24:29 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:24:29 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:24:33 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:24:33 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:24:55 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:24:55 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:25:02 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:25:02 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:25:59 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:25:59 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:26:07 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:26:07 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:26:51 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:26:51 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:27:16 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:27:16 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:28:00 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:28:00 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:28:26 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:28:27 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:28:32 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:28:32 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:29:05 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:29:05 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:30:11 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:30:15 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:30:15 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:30:29 : [METHOD CALL] : updateChamados() method was called.
+21-10-2024_16:30:29 : [SCHEDULE] : Next update at 2024-10-21 16:35:29
+21-10-2024_16:30:29 : [METHOD CALLED] : updateChamados() called.
+21-10-2024_16:30:29 : [METHOD CALLED] : processChamadosPages() called with date filter.
+21-10-2024_16:30:30 : [INFO] : Found 156 pages to process.
+21-10-2024_16:31:32 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_16:32:35 : [SUCCESS] : updateChamados() completed successfully.
+21-10-2024_16:32:35 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_16:32:35 : [SUCCESS] : updateChamados() method processed successfully.
+21-10-2024_16:32:38 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:34:10 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:34:10 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:35:29 : [CONTROLLER CONSTRUCTOR CALL] : ChamadosControllers() constructor was invoked.
+21-10-2024_16:35:29 : [CONSTRUCTOR CALL] : Mail Controller constructor was invoked.
+21-10-2024_16:35:42 : [METHOD CALL] : updateChamados() method was called.
+21-10-2024_16:35:42 : [SCHEDULE] : Next update at 2024-10-21 16:40:42
+21-10-2024_16:35:42 : [METHOD CALLED] : updateChamados() called.
+21-10-2024_16:35:42 : [METHOD CALLED] : processChamadosPages() called with date filter.
+21-10-2024_16:35:44 : [INFO] : Found 156 pages to process.
+21-10-2024_16:37:52 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_16:40:41 : [SUCCESS] : updateChamados() completed successfully.
+21-10-2024_16:40:41 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_16:40:41 : [SUCCESS] : updateChamados() method processed successfully.
+21-10-2024_17:00:06 : [METHOD CALL] : updateChamados() method was called.
+21-10-2024_17:00:06 : [SCHEDULE] : Next update at 2024-10-21 17:05:06
+21-10-2024_17:00:06 : [METHOD CALLED] : updateChamados() called.
+21-10-2024_17:00:06 : [METHOD CALLED] : processChamadosPages() called with date filter.
+21-10-2024_17:00:06 : [INFO] : Found 156 pages to process.
+21-10-2024_17:01:12 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_17:04:08 : [SUCCESS] : updateChamados() completed successfully.
+21-10-2024_17:04:08 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_17:04:08 : [SUCCESS] : updateChamados() method processed successfully.
+21-10-2024_17:17:31 : [METHOD CALL] : updateChamados() method was called.
+21-10-2024_17:17:31 : [SCHEDULE] : Next update at 2024-10-21 17:22:31
+21-10-2024_17:17:31 : [METHOD CALLED] : updateChamados() called.
+21-10-2024_17:17:31 : [METHOD CALLED] : fastUpdateChamados() called with date filter.
+21-10-2024_17:17:38 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_17:18:01 : [SUCCESS] : updateChamados() completed successfully.
+21-10-2024_17:18:01 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_17:18:01 : [SUCCESS] : updateChamados() method processed successfully.
+21-10-2024_17:18:56 : [METHOD CALL] : uploadChamadosByData() method was called.
+21-10-2024_17:18:56 : [METHOD CALLED] : uploadLastTwoYears() called.
+21-10-2024_17:18:56 : [METHOD CALLED] : processChamadosPages() called with date filter.
+21-10-2024_17:18:57 : [INFO] : Found 272 pages to process.
+21-10-2024_17:20:53 : [SUCCESS] : processChamadosPages() successfully retrieved and processed all pages.
+21-10-2024_17:27:34 : [SUCCESS] : uploadLastTwoYears() processed successfully.
+21-10-2024_17:27:34 : [METHOD CALLED] : createUploadResponse() with status: SUCCESS.
+21-10-2024_17:27:34 : [SUCCESS] : uploadChamadosByData() method processed successfully. Response returned.
+21-10-2024_17:27:34 : [END PROCESS - UPLOAD MONGO] : Successfully uploaded data for the last two years.
