@@ -6,7 +6,7 @@
 
 - **Requisições API**: Realização de requisições eficientes para o sistema de HelpDesk "Tom Ticket".
 - **Documentação**: Uso de Swagger para documentação automática, visando facilitar a compreensão e o uso da API.
-- **Padrões de Projeto**: Aplicação de padrões de design, como Singleton e Factory, para garantir flexibilidade e manutenção do código.
+- **Padrões de Projeto**: Aplicação de padrões de design para garantir flexibilidade e manutenção do código.
 - **Banco de Dados Não-Relacional**: Integração com MongoDB para armazenamento e gerenciamento de dados.
 - **Arquitetura Limpa**: Organização modular da aplicação, promovendo a separação de responsabilidades.
 
