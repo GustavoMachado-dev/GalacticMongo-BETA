@@ -48,7 +48,6 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
    spring.mail.username=seuemail@exemplo.com
    spring.mail.password=suasenha
    spring.mail.port=587
-   spring.data.mongodb.uri=mongodb://localhost:27017/galacticmongo
    ```
 
 5. Configure o envio de logs por email:
