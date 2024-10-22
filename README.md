@@ -89,4 +89,9 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 
 ---
 
-Você pode me seguir no [LinkedIn]([link-do-perfil](https://www.linkedin.com/in/gustavomachado-dev/) ou entrar em contato por email: [gustavof.docentemachado@gmail.com] ou [gustavo.lopes04@edu.pucrs.br].
+## Contato
+
+Você pode me seguir no [LinkedIn](https://www.linkedin.com/in/gustavomachado-dev/) ou entrar em contato por e-mail:
+
+- gustavof.docentemachado@gmail.com
+- gustavo.lopes04@edu.pucrs.br
